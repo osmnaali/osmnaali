@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osmanali
 - 👀 I’m interested in python
-- 🌱 I’m currently learning well nothing 
+- 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on anything inforamtive
 - 📫 How to reach me well just email me mannnn 
 
